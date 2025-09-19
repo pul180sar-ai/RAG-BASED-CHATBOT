@@ -5,5 +5,3 @@ langchain
 pypdf
 streamlit
 google-generativeai
-from pypdf import PdfReader
-from pdfextractor import text_extractor_pdf
